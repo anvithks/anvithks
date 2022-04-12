@@ -1,12 +1,13 @@
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{anvithks}1212%2Fhit-counter" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanvithks1212%2Fhit-counter" />
 
 <h1 align='left'>
    Anvith KS 
 </h1>
 
 <p align='left'>
-  Bengaluru, India
+  System Architect at Huawei Technologies India Pvt. Ltd. and Maintainer of projects at SODA Foundation.
 </p>
+<p>I am based out of Bengaluru, Karnataka, India.</p>
 
 
 
@@ -54,7 +55,7 @@
 
 
 
-
+![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anvithks&theme=vue)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anvithks&layout=compact&langs_count=8)
 
 <hr>
