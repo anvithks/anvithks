@@ -1,5 +1,3 @@
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanvithks1212%2Fhit-counter" />
-
 <h1 align='left'>
    Anvith KS 
 </h1>
@@ -52,13 +50,14 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
+<hr />
+
+<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anvithks&theme=github_dark" width="46%"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvithks&layout=compact&langs_count=9&theme=github_dark" width="49%"></a>
+<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anvithks&theme=github_dark" width="100%"></a>
 
 
-
-![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anvithks&theme=vue)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anvithks&layout=compact&langs_count=8)
-
-<hr>
+<hr />
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -67,4 +66,8 @@
   <img src="https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/anvithks/anvithks"></a> fellow developers have come here!
 </p>
