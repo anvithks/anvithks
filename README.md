@@ -20,7 +20,9 @@
   <a href="https://twitter.com/anvith3">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+   <a href="https://instagram.com/anvithks">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </div>
 
 <p align='center'>
