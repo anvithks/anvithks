@@ -3,7 +3,7 @@
 </h1>
 
 <p align='left'>
-  System Architect at Huawei Technologies India Pvt. Ltd. and Maintainer of projects at SODA Foundation.
+  System Architect at Huawei Technologies India Pvt. Ltd. and Member of Outreach Committee(India) at SODA Foundation.
 </p>
 <p>I am based out of Bengaluru, Karnataka, India.</p>
 
