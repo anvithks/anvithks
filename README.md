@@ -70,6 +70,4 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/anvithks/anvithks"></a> fellow developers have come here!
-</p>
+![](https://hit.yhype.me/github/profile?user_id=19162717)
